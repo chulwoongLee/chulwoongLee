@@ -4,10 +4,17 @@
 
 기술스택은 https://chulwoonglee.github.io/portfolio/ 이곳에 정의하고 있으며
 
+FE TO BE쪽은
+https://sample-backoffice-frontend.vercel.app/login
+을 확인하길 바랍니다.
+stack nextjs(pages router),spring-boot(jpa구조)
+spring-boot의 스웨거는 http://132.226.169.203:8091/swagger-ui.html로 확인바랍니다.
+
+/*
 업무시스템 확인은
 http://132.226.169.203:3000/
 이곳으로 접속 바랍니다.
-
+*/
 -감사합니다.-
 
 <!---
