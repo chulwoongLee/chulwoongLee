@@ -2,7 +2,7 @@
 현재 접속계정 및 보안이슈로 인하여 쿠팡파트너스 소스를 제외한 모든 소스는
 비공개 처리 하였습니다.
 
-기술스택은 https://chulwoonglee.github.io/portfolio/ 이곳에 정의하고 있으며
+기술스택은 https://portfolio-v2-cyan-two.vercel.app/intro 이곳에 정의하고 있으며
 
 FE TO BE쪽은
 https://sample-backoffice-frontend.vercel.app/login
@@ -10,11 +10,7 @@ https://sample-backoffice-frontend.vercel.app/login
 stack nextjs(pages router),spring-boot(jpa구조)
 spring-boot의 스웨거는 http://132.226.169.203:8091/swagger-ui.html로 확인바랍니다.
 
-/*
-업무시스템 확인은
-http://132.226.169.203:3000/
-이곳으로 접속 바랍니다.
-*/
+
 -감사합니다.-
 
 <!---
