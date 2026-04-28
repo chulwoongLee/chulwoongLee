@@ -1,17 +1,6 @@
 안녕하세요 개발자 이철웅 입니다.
-현재 접속계정 및 보안이슈로 인하여 쿠팡파트너스 소스를 제외한 모든 소스는
-비공개 처리 하였습니다.
-
-기술스택은 https://portfolio-v2-cyan-two.vercel.app/intro 이곳에 정의하고 있으며
-
-FE TO BE쪽은
-https://sample-backoffice-frontend.vercel.app/login
-을 확인하길 바랍니다.
-stack nextjs(pages router),spring-boot(jpa구조)
-spring-boot의 스웨거는 http://132.226.169.203:8091/swagger-ui.html로 확인바랍니다.
-
-
--감사합니다.-
+대부분의 레파지토리는 보안이슈로 private처리하였으며
+내용에 대한 부분은 추후 작성 예정입니다.
 
 <!---
 chulwoongLee/chulwoongLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
